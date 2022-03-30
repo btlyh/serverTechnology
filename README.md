@@ -5,6 +5,8 @@
 
 - **[分布式锁](https://github.com/btlyh/serverTechnology/blob/main/file/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)**  
 
+- **消息中间件**
+
 
 ### 分布式ID方案：
 雪花算法->生成一个64bit的ID，其中  
